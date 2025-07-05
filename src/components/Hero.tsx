@@ -46,7 +46,7 @@ const Hero: React.FC = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <button
               onClick={handleWhatsAppClick}
-              className="bg-white text-insolva-600 font-semibold px-8 py-4 rounded-xl hover:bg-insolva-50 transition-colors duration-300 inline-flex items-center space-x-2"
+              className="bg-cyan-500 text-white font-semibold px-8 py-4 rounded-xl hover:bg-cyan-600 transition-colors duration-300 inline-flex items-center space-x-2"
             >
               <span>Conversemos</span>
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

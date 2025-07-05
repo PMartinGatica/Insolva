@@ -47,7 +47,7 @@ const Plans: React.FC = () => {
         "Soporte 90 días",
         "2 revisiones mensuales"
       ],
-      highlighted: true,
+      highlighted:false,
       ctaText: "Plan Más Popular"
     },
     {

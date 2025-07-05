@@ -213,9 +213,9 @@ const AboutUs: React.FC = () => {
               Contáctanos para una consulta gratuita donde analizaremos tu empresa y te mostraremos 
               oportunidades concretas de mejora.
             </p>
-            <button 
+            <button
               onClick={() => window.open('https://wa.me/+5491234567890?text=Hola! Me interesa conocer más sobre el equipo y enfoque de INSOLVA', '_blank')}
-              className="bg-white text-insolva-600 font-semibold px-8 py-4 rounded-xl hover:bg-insolva-50 transition-colors duration-300 inline-flex items-center space-x-2"
+              className="bg-cyan-500 text-white font-semibold px-8 py-4 rounded-xl hover:bg-cyan-600 transition-colors duration-300 inline-flex items-center space-x-2"
             >
               <span>Conversemos</span>
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
